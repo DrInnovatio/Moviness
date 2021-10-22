@@ -63,7 +63,7 @@ header {
 
 .movie img {
   object-fit: cover;
-  height: 450px;
+  height: 390px;
   max-width: 100%;
 }
 
