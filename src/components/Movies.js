@@ -27,4 +27,4 @@ const Movie = ({title, poster_path, overview, vote_average}) => (
   </div>
 ) 
 
-export default Movie;
+export default Movie; 

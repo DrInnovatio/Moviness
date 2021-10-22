@@ -18,14 +18,13 @@ header {
   background-color: #5b64e6;
   display: flex;
   padding: 1rem;
-  justify-content: space-between;
+  justify-content: space-around;
 
 }
 
 .btn{
   color: rgb(245, 196, 61);
   background-color: #22254b;
-  margin-left: 8%;
   width: 8rem;
   border-radius: 10px;
   font-size: 1.2rem;
